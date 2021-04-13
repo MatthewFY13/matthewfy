@@ -608,7 +608,7 @@ footer p{
         margin-bottom: 35px;
     }
 }
-@media (max-width: 550px){
+@media (max-width: 559px){
     .inicio .inicio-content .texto1{
         font-size: 50px;
         margin-left: 140px;
@@ -626,3 +626,57 @@ footer p{
         margin-left: 110px;
     }
 }
+@media (max-width: 491px){
+    .inicio .max-width img{
+        width: 240px;
+        height: 240px;
+        margin-left: 50px;
+    }
+    .inicio .inicio-content .texto1{
+        font-size: 40px;
+        margin-left: 110px;
+    }
+    .inicio .inicio-content .texto2{
+        font-size: 35px;
+        margin-left: 2px;
+    }
+    .inicio .inicio-content .texto3{
+        font-size: 25px;
+        margin-left: 35px;
+    }
+    .inicio .boton{
+        width: 40%;
+        font-size: 12px;
+        margin-left: 95px;
+    }
+}
+@media (max-width: 387px){
+    .inicio .max-width img{
+        width: 240px;
+        height: 240px;
+        margin-left: 50px;
+    }
+    .inicio .inicio-content .texto1{
+        font-size: 35px;
+        margin-left: 90px;
+    }
+    .inicio .inicio-content .texto2{
+        font-size: 30px;
+        margin-left: -2px;
+    }
+    .inicio .inicio-content .texto3{
+        font-size: 20px;
+        margin-left: 35px;
+    }
+    .inicio .boton{
+        width: 32%;
+        font-size: 8px;
+        margin-left: 90px;
+    }
+}
+
+
+
+
+
+
