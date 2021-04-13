@@ -611,7 +611,7 @@ footer p{
 @media (max-width: 559px){
     .inicio .inicio-content .texto1{
         font-size: 50px;
-        margin-left: 140px;
+        margin-left: 145px;
     }
     .inicio .inicio-content .texto2{
         font-size: 50px;
@@ -623,7 +623,7 @@ footer p{
     }
     .inicio .boton{
         width: 40%;
-        margin-left: 110px;
+        margin-left: 120px;
     }
 }
 @media (max-width: 491px){
@@ -651,6 +651,9 @@ footer p{
     }
 }
 @media (max-width: 387px){
+    .inicio .max-width{
+        height: 500px;
+    }
     .inicio .max-width img{
         width: 240px;
         height: 240px;
