@@ -579,23 +579,23 @@ footer p{
     .inicio .max-width img{
         width: 300px;
         height: 300px;
-        margin-left:50px;
+        margin-left:30px;
     }
     .inicio .inicio-content .texto1{
         font-size: 60px;
-        margin-left: 165px;
+        margin-left: 138px;
     }
     .inicio .inicio-content .texto2{
         font-size: 50px;
-        margin-left: 10px;
+        margin-left: -20px;
     }
     .inicio .inicio-content .texto3{
         font-size: 40px;
-        margin-left: 50px;
+        margin-left: 12px;
     }
     .inicio .boton{
-        width: 34%;
-        margin-left: 160px;
+        width: 40%;
+        margin-left: 130px;
     }
     .skill{
         width: 100%;
