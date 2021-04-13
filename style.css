@@ -277,19 +277,19 @@ section .title::after
     transition: all 0.5s ease-in-out;
 }
 .html:after{
-    width: 40%;
+    width: 60%;
 }
 .css:after{
-    width: 30%;
+    width: 50%;
 }
 .js:after{
-    width: 10%;
+    width: 30%;
 }
 .python:after{
-    width: 10%;
+    width: 30%;
 }
 .java:after{
-    width: 20%;
+    width: 40%;
 }
 .mysql:after{
     width: 20%;
@@ -423,6 +423,7 @@ section .title::after
     border-radius: 8px;
     transform: translateX(-50%);
 }
+
 .contact .contact-content .column{
     width: 80%;
     margin: auto;
