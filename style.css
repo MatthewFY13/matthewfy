@@ -640,7 +640,7 @@ footer p{
     }
     .inicio .inicio-content .texto1{
         font-size: 35px;
-        margin-left: 112px;
+        margin-left: 110px;
     }
     .inicio .inicio-content .texto2{
         font-size: 35px;
@@ -648,12 +648,12 @@ footer p{
     }
     .inicio .inicio-content .texto3{
         font-size: 25px;
-        margin-left: 40px;
+        margin-left: 38px;
     }
     .inicio .boton{
         width: 40%;
         font-size: 12px;
-        margin-left: 96px;
+        margin-left: 94px;
     }
 }
 @media (max-width: 387px){
