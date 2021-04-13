@@ -657,20 +657,20 @@ footer p{
     }
     .inicio .inicio-content .texto1{
         font-size: 40px;
-        margin-left: 95px;
+        margin-left: 83px;
     }
     .inicio .inicio-content .texto2{
         font-size: 30px;
-        margin-left: 2px;
+        margin-left: -10px;
     }
     .inicio .inicio-content .texto3{
         font-size: 25px;
-        margin-left: 20px;
+        margin-left: 4px;
     }
     .inicio .boton{
         width: 45%;
         font-size: 12px;
-        margin-left: 80px;
+        margin-left: 70px;
     }
 }
 
