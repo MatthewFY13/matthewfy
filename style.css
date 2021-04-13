@@ -620,25 +620,25 @@ footer p{
     .inicio .max-width img{
         width: 300px;
         height: 300px;
-        margin-left: 60px;
+        margin-left: 50px;
         margin-bottom: 20px;
     }
     .inicio .inicio-content .texto1{
         font-size: 50px;
-        margin-left: 160px;
+        margin-left: 150px;
     }
     .inicio .inicio-content .texto2{
         font-size: 45px;
-        margin-left: 10px;
+        margin-left: 4px;
     }
     .inicio .inicio-content .texto3{
         font-size: 35px;
-        margin-left: 52px;
+        margin-left: 38px;
     }
     .inicio .boton{
-        width: 36%;
+        width: 40%;
         font-size: 17px;
-        margin-left: 145px;
+        margin-left: 130px;
     }
 }
 
