@@ -608,3 +608,21 @@ footer p{
         margin-bottom: 35px;
     }
 }
+@media (max-width: 550px){
+    .inicio .inicio-content .texto1{
+        font-size: 50px;
+        margin-left: 140px;
+    }
+    .inicio .inicio-content .texto2{
+        font-size: 50px;
+        margin-left: -20px;
+    }
+    .inicio .inicio-content .texto3{
+        font-size: 40px;
+        margin-left: 12px;
+    }
+    .inicio .boton{
+        width: 40%;
+        margin-left: 110px;
+    }
+}
